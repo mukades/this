@@ -1,10 +1,21 @@
-We're looking for a great person & backend developer to join our awesome team here at Mobiright. You wanna do cool shit? We do cool shit. How cool? Plenty cool. Like couple-of-million-users-who-see-us-with-their-mobile-browser cool. 
+We're looking for a great person & backend developer to join our awesome team here at Mobiright. 
+You wanna do cool shit? We do cool shit. How cool? Plenty cool. 
+Like couple-of-million-users-who-see-us-with-their-mobile-browser cool. 
 
-Are you a backend developer who likes large-scale systems? We've got it. You like NoSQL systems and Node.js? We do it. On a large scale. Real-life shit, none of that omg-i-created-a-blog-engine shit. You'll be thinking about how we go from 150 million to 1 billion users. Then to 10 billion.
+Are you a backend developer who likes large-scale systems? We've got it. 
+You like NoSQL systems and Node.js? We do it. On a large scale. Real-life shit, 
+none of that omg-i-created-a-blog-engine shit. 
+You'll be thinking about how we go from 150 million to 1 billion users. Then to 10 billion.
 
-Want be involved from the first step (instead of the last)? You get to drive the quality work (and test some as well). You get to be appreciated and heard. You know quality isn't something you slap on a service as a last step, but it's there from day 1. That's what you get to do. Cool shit. Plain and simple.
+Want be involved from the first step (instead of the last)? 
+You get to drive the quality work (and test some as well). 
+You get to be appreciated and heard. 
+You know quality isn't something you slap on a service as a last step, but it's there from day 1. 
+That's what you get to do. Cool shit. Plain and simple.
 
-Who the frack are we? Mobiright is a Tel Aviv based startup developing an advanced ad platform that serves hundreds of mobile friendly content websites globally. We make our own money. That's freedom to do what we think is important, and not what someone else wants us to do. That's how we roll.
+Who the frack are we? 
+Mobiright is a Tel Aviv based startup developing an advanced ad platform that serves hundreds of mobile friendly content websites globally. We make our own money.
+That's freedom to do what we think is important, and not what someone else wants us to do. That's how we roll.
 
 Holla at me if you feel this is the thing for you (or you know someone who'd be a great fit).
 
