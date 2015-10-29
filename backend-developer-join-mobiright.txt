@@ -1,4 +1,4 @@
-We're looking for a great person & backend developer to join our awesome team here at Mobiright. You wanna do cool shit? We do cool shit. How cool? Plenty cool. Like couple-of-million-users-who-see-us-with-their-mobile-browser cool. 
+We're looking for a great person & backend developer to join our awesome team here at Mobiright. You wanna do cool shit? We do cool shit. How cool? Plenty cool. Like couple-of-million-users-who-see-us-with-their-mobile-browser cool.
 
 Are you a backend developer who likes large-scale systems? We've got it. You like NoSQL systems and Node.js? We do it. On a large scale. Real-life shit, none of that omg-i-created-a-blog-engine shit. You'll be thinking about how we go from 150 million to 1 billion users. Then to 10 billion.
 
